@@ -41,7 +41,7 @@ Recording (audio or video)
    ↓  4. Rebuild      – a neural vocoder (HiFi-GAN) produces clear audio
    ↓  5. Check        – independent attacker tests try to re-identify the speaker;
                         speech recognition checks the words are correct
-Result: 🟢 safe   🟡 unsure   🔴 not safe   (+ hidden file metadata removed)
+Result:  safe    unsure    not safe   (+ hidden file metadata removed)
 ```
 
 Details: [docs/method.md](docs/method.md)
